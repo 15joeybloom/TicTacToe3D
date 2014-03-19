@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=title
+comment0.target=TicTacToe3DFrame(java.lang.String)
+comment0.text=\r\n\ Constructs\ with\ the\ given\ title\r\n
+comment1.params=
+comment1.target=void\ makeBoard()
+comment1.text=\r\n\ Helper\ method\ to\ initialize\ the\ board\r\n
+comment2.params=sq
+comment2.target=boolean\ hasWinner(TicTacToe3DSquare)
+comment2.text=\r\n\ Checks\ if\ the\ most\ recent\ move\ has\ produced\ a\ winner.\r\n\ @param\ sq\ the\ most\ recent\ move\r\n\ @return\ <code>true</code>\ if\ there\ is\ a\ winner\r\n
+comment3.params=
+comment3.target=java.lang.String\ whoseTurn()
+comment3.text=\r\n\ Returns\ whose\ turn\ it\ currently\ is\r\n\ @return\ whose\ turn\ it\ is\r\n
+comment4.params=
+comment4.target=void\ nextTurn()
+comment4.text=\r\n\ Toggles\ whose\ turn\ it\ is\r\n
+numComments=5
