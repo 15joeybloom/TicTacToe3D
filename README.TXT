@@ -1,12 +1,7 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+**PROJECT TITLE:** TicTacToe3D
+**PURPOSE OF PROJECT:** To implement a three dimensional game of tic tac toe playable by two players on the same computer.
+**VERSION or DATE:** Completed 11/12/2012
+**HOW TO START THIS PROJECT:** Run TicTacToe.jar
+**AUTHORS:** Joey Bloom
+**USER INSTRUCTIONS:**
+On running the program, you will see four empty 4x4 grids. Each grid represents a layer of a cube, so the four grids together make one cube. The object is to be the first to get four in a row in any direction, including across layers of the cube. The program tells you when it is X's turn and O's turn, and when someone has achieved four in a row.
